@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ .Title }} — {{ .Site.Title }}</title>
+</head>
+
+<body>
+
+    <header>
+        <a href="{{ "/" | relURL }}">my blog</a>
+
+        <nav>
+            <a href="{{ "/" | relURL }}">Home</a>
+            <a href="{{ "/weeks/" | relURL }}">Weeks</a>
+        </nav>
+    </header>
+
+
+    <main>
+
+        <h1>{{ .Title }}</h1>
+
+        <p>A collection of my weeks.</p>
+
+        {{ range .Pages }}
+
+            <article>
+
+                <h2>
+                    <a href="{{ .RelPermalink }}">
+                        {{ .Title }}
+                    </a>
+                </h2>
+
+                <p>
+                    {{ .Date.Format "02 January 2006" }}
+                </p>
+
+                {{ with .Description }}
+                    <p>{{ . }}</p>
+                {{ end }}
+
+            </article>
+
+        {{ end }}
+
+    </main>
+
+</body>
+</html>
