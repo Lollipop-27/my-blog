@@ -10,9 +10,13 @@ title = 'My Blog'
   description = "My UAL UX Design homework blog."
 
   [menu]
+    [[menu.main]]
+      identifier = "weeks"
+      name = "Weeks"
+      url = "/weeks/"
+      weight = 10
 
-  [[menu.main]]
-    identifier = "weeks"
-    name = "Weeks"
-    url = "/weeks/"
-    weight = 10
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
