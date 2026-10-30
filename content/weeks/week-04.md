@@ -26,7 +26,7 @@ We experimented with bodystorming using strings to represent connections between
 
 **Tuesday, October 13**
 
-We discussed possible directions for our final prototype and settled on a cup-stacking race. During our tutorial, Tanisha suggested introducing randomisation to make the experience less predictable. We decided to use a dice, with each number corresponding to a different type of latency associated with a self-checkout kiosk.
+We discussed possible directions for our final prototype and settled on a cup-stacking race. During our tutorial, Tonisha suggested introducing randomisation to make the experience less predictable. We decided to use a dice, with each number corresponding to a different type of latency associated with a self-checkout kiosk.
 
 We also tested the activity with classmates to check whether the instructions and interactions were clear.
 

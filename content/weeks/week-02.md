@@ -25,7 +25,7 @@ We talked through the different elements we wanted to keep and how we could comb
 
 Today, we started building the actual experience. We worked on putting together the physical elements and figuring out how the different parts would connect.
 
-We also had a discussion with Tanisha about our idea. She suggested that we think about involving the other students in the classroom rather than creating an experience that only one person could interact with at a time. This made us reconsider how we wanted the audience to participate.
+We also had a discussion with Tonisha about our idea. She suggested that we think about involving the other students in the classroom rather than creating an experience that only one person could interact with at a time. This made us reconsider how we wanted the audience to participate.
 
 From this discussion, we came up with the idea of adding a broadcasting element. Instead of having everything happen only for the person directly interacting with the experience, we could share part of it with the rest of the class. We thought this would make the experience more collective and allow everyone to be involved in some way.
 

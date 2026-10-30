@@ -28,7 +28,7 @@ This distinction became the foundation of our research into the UX of latency. R
 
 We used bodystorming to explore three examples of digital latency: Face ID, Flywire payments, and metro gates. Each example presented a different interaction in which users depend on a system to respond before they can continue with their task.
 
-Following our tutorial with Tanisha, we reconsidered how we could investigate the relationship between waiting time and user experience. Since the perception of time varies between individuals, we needed to consider context and observable behaviour rather than relying only on the duration of a delay.
+Following our tutorial with Tonisha, we reconsidered how we could investigate the relationship between waiting time and user experience. Since the perception of time varies between individuals, we needed to consider context and observable behaviour rather than relying only on the duration of a delay.
 
 I suggested investigating school entrance gates, where students scan their IDs to gain access. During busy periods, queues may form, creating situations in which delays affect the flow of people. We visited the gates as a group to observe the interaction between users and the system.
 

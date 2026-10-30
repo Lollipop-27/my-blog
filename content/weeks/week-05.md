@@ -26,7 +26,7 @@ Afterwards, we agreed to collect love letters and breakup letters addressed to c
 
 **Tuesday, October 20**
 
-Our group discussed creating something with slime, potentially in the form of an educational video. However, our tutorial with Tanisha made us question whether this approach would genuinely help people learn about compost or whether we were mainly attracted to slime because of its visual appeal and popularity.
+Our group discussed creating something with slime, potentially in the form of an educational video. However, our tutorial with Tonisha made us question whether this approach would genuinely help people learn about compost or whether we were mainly attracted to slime because of its visual appeal and popularity.
 
 We also wanted to collect perspectives from younger people. I asked my nephew to write a letter to compost, and we recorded videos or audio of our family members reading their letters aloud. These recordings allowed us to explore how different people express their relationships with compost.
 
