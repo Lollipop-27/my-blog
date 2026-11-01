@@ -40,7 +40,14 @@ I worked on writing the instructions for the final prototype, focusing on explai
 
 The tutors suggested that our prototype could have been more experimental. Instead of using familiar objects such as cups, we could have explored unusual materials, such as sticky or oversized objects, to create a more unexpected physical experience. They also noted that our group roles were not clearly defined, highlighting the importance of communication and task distribution during collaborative design.
 
+<video controls width = "100%">
+  <source src="/my-blog/videos/week-04/IMG_2968.mov" type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
 We were also introduced to our next project, **UX of Compost**. Since some group members were unfamiliar with composting, I suggested that everyone conduct individual research and share their findings on FigJam to establish a common understanding of the topic.
+
+
 
 ### Initial Research into Composting
 

@@ -19,8 +19,17 @@ tags:
 **Monday, October 19**
 
 We visited Calthorpe Community Garden to observe a composting session. I had expected to observe the process rather than participate in a workshop, so we stayed for approximately half an hour. Although our visit was brief, it gave us an opportunity to encounter composting in a community setting.
+<img src="/my-blog/images/week-05/IMG_3101.jpeg" alt="Branch scraps in the garden">
+<img src="/my-blog/images/week-05/IMG_3104.jpeg" alt="Compost material in the garden">
+<img src="/my-blog/images/week-05/IMG_3105.jpeg" alt="Compost material in the garden">
 
 Afterwards, we agreed to collect love letters and breakup letters addressed to compost, using personal perspectives to explore people's relationships with it. I asked my mum to share photographs of our garden's compost bin, along with her own letters. This introduced a personal perspective to our research and connected the project to composting practices at home.
+
+<img src="/my-blog/images/week-05/IMG_3148.jpeg" alt="Love + Breakup letter from my mother">
+
+<img src="/my-blog/images/week-05/2465.jpeg" alt="Compost bin back home">
+<img src="/my-blog/images/week-05/2467.jpeg" alt="Compost bin back home">
+<img src="/my-blog/images/week-05/2468.jpeg" alt="Compost bin back home">
 
 ### Exploring the Creative Direction
 

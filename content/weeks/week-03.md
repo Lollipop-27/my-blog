@@ -50,6 +50,19 @@ During a team call on Friday, we coordinated our next steps and arranged a behav
 
 We began at Sainsbury's, observing its self-service kiosks, and also tried using a coffee machine that presented some technical difficulties. We then visited Tesco Express, Morrisons, and Lidl to examine different checkout environments.
 
+<video controls width = "100%">
+  <source src="/my-blog/videos/week-03/IMG_2668.mov" type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
 These locations provided opportunities to investigate how people interact with systems that control the pace of a task. We were particularly interested in moments when an interaction is interrupted, when users need to wait, or when they must change their approach because a system does not work as expected.
+
+<img src="/my-blog/images/week-03/IMG_2669.jpeg" alt="The checkout kiosk at Tesco Express">
+<img src="/my-blog/images/week-03/IMG_2670.jpeg" alt="The gate at Morrison">
+
+<video controls width = "100%">
+  <source src="/my-blog/videos/week-03/IMG_2673.mov" type="video/mp4">
+  Your browser does not support the video element.
+</video>
 
 The next step is to organise our observations and compare behaviours across these environments. This will help us identify patterns in how people respond to delays and consider how the relationship between digital latency, physical movement, and perceived waiting time could inform our design direction.

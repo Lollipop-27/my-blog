@@ -31,17 +31,28 @@ From this discussion, we came up with the idea of adding a broadcasting element.
 
 We also made small samples of some of our materials for the other students to touch. This gave us a simple way to test the textures and see how people physically reacted to them.
 
+<img src="/my-blog/images/week-02/IMG_2408.jpeg" alt="small prototype">
+<img src="/my-blog/images/week-02/IMG_2409.jpeg" alt="small prototype">
+<img src="/my-blog/images/week-02/IMG_2410.jpeg" alt="setting the product up">
+
 ### Wednesday, September 30
 
 Today, we focused more on testing the technology. We went back through the setup and tried out the different technical elements to make sure everything worked together.
 
 After testing, we made the final adjustments and finished the physical product. It was useful to test everything before the presentation because it helped us identify some of the things that could go wrong and gave us a chance to make changes.
 
+<img src="/my-blog/images/week-02/IMG_2440.jpeg" alt="Testing the broadcasting app">
+<img src="/my-blog/images/week-02/IMG_2445.jpeg" alt="The soft part of our board">
+
+
+
 ### Thursday, October 1
 
 Today, we presented our final experience to the class. Just before presenting, we had some technical problems. OBS was not connecting properly, so we had to switch to using FaceTime instead. The audio also did not work as well as we expected, so we ended up playing the sound directly through our phones.
 
 Although these problems were frustrating, we were still able to adapt and present the experience. It reminded me that when working with technology, having an alternative method is important because things may not always work as planned.
+
+<img src="/my-blog/images/week-02/8940.jpg" alt="The feel the audience felt">
 
 ### Friday, October 2
 
